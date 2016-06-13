@@ -63,7 +63,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Slide20\bugreport.txt" />
+    <Content Include="Slide18\README.txt" />
+    <Content Include="Slide20\README.txt" />
+    <Content Include="Slide22\README.txt" />
+    <Content Include="Slide24\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,16 +2,16 @@
 {
     internal class NameChanging
     {
-        private readonly string _name;
+        private readonly string _nmea;
 
-        public NameChanging(string name)
+        public NameChanging(string nmea)
         {
-            _name = name;
+            _nmea = nmea;
         }
 
-        public string Name
+        public string Nmea
         {
-            get { return _name; }
+            get { return _nmea; }
         }
     }
 }

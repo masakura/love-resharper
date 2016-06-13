@@ -29,7 +29,7 @@ namespace SecondSamples.Slide22
 
         public string GetBelongText(Customer customer)
         {
-            // ?? 演算子への置き換え
+            // ?. 演算子への置き換え
             if (customer != null && customer.Belong != null)
             {
                 return customer.Belong.Name;
