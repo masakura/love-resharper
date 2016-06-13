@@ -6,4 +6,4 @@ Name にすると、フィールド変数やコンストラクタ引数の名前
 ## IFoo.cs
 
 IFoo に合わせて、右クリック -> Refactor -> Rename
-IBar にすると、Foo1Foo も Foo1Bar になるs
+IBar にすると、Foo1Foo も Foo1Bar になる
