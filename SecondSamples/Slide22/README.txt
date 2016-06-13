@@ -16,7 +16,7 @@ IUnit.cs を開いて、IUnit の上で、右クリック -> Inspect -> Hierarci
 ## IUnit.cs
 
 IUnit.cs を開いて、12 行目の unit.Foo() の Foo の上で、右クリック -> Navigate -> Derived Symbols
-でインターふぇすのメンバではなく、実装へジャンプできる
+でインターフェイスのメンバではなく、実装へジャンプできる
 
 ## OperatorSample.cs (おまけ)
 
