@@ -1,4 +1,9 @@
-﻿## SafeDelete.cs
+﻿## NameChaning.cs
 
-1. Method2 に合わせて、右クリック -> Safe Delete -> 消していいか確認がある
-2. Method1 に合わせて、右クリック -> Safe Delete -> 確認なしで消える
+スペルミスなので 12 行目の Nmea に合わせて、右クリック -> Refactor -> Rename
+Name にすると、フィールド変数やコンストラクタ引数の名前も変わるs
+
+## IFoo.cs
+
+IFoo に合わせて、右クリック -> Refactor -> Rename
+IBar にすると、Foo1Foo も Foo1Bar になる
